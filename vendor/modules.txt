@@ -1176,7 +1176,7 @@ k8s.io/kube-openapi/pkg/util/proto
 # k8s.io/kubectl v0.17.2 => k8s.io/kubectl v0.17.2
 k8s.io/kubectl/pkg/describe
 k8s.io/kubectl/pkg/drain
-# k8s.io/kubernetes v1.17.2 => k8s.io/kubernetes v1.17.2
+# k8s.io/kubernetes v1.18.19 => k8s.io/kubernetes v1.17.2
 k8s.io/kubernetes/pkg/api/service
 k8s.io/kubernetes/pkg/api/v1/pod
 k8s.io/kubernetes/pkg/apis/apps
